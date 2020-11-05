@@ -1,0 +1,32 @@
+
+.content{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.contato{
+    width: 100%;
+    max-width: 500px;
+    
+    
+}
+.form{
+    display:flex;
+    flex-direction: column;
+    
+    
+}
+.field{
+    padding:10px;
+    margin-bottom: 15px;
+    border:5px solid #ddd;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 16px;
+    cursor: pointer;
+}
+.textarea{
+    height: 150px;
+}
